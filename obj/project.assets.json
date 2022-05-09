@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulis8\\Documents\\Учеба\\Контрольная работа_1 (05.22)\\Контрольная работа_1 (05.22).csproj",
-      "projectName": "Контрольная работа_1 (05.22)",
-      "projectPath": "C:\\Users\\ulis8\\Documents\\Учеба\\Контрольная работа_1 (05.22)\\Контрольная работа_1 (05.22).csproj",
+      "projectUniqueName": "C:\\Users\\ulis8\\Documents\\Учеба\\Контрольная работа_1 (05.22)\\Test_FQ_GB.csproj",
+      "projectName": "Test_FQ_GB",
+      "projectPath": "C:\\Users\\ulis8\\Documents\\Учеба\\Контрольная работа_1 (05.22)\\Test_FQ_GB.csproj",
       "packagesPath": "C:\\Users\\ulis8\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ulis8\\Documents\\Учеба\\Контрольная работа_1 (05.22)\\obj\\",
       "projectStyle": "PackageReference",
