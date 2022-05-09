@@ -18,6 +18,7 @@ string[] FindShortStrings(string[] array)
 
     // Инициализируем массив для записи в него искомых строк
     string[] shortStringsArray = new string[index];
+    
     // Обнуляем переменную index для использования при индексировании нового массива
     index = 0;
 
